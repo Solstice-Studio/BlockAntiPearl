@@ -1,0 +1,5 @@
+blocks:
+  - "minecraft:sponge"
+  - "minecraft:warped_fence_gate"
+
+message: "Vous ne pouvez pas pearl sur ce bloc !"
